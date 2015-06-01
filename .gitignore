@@ -1,0 +1,5 @@
+*.log
+Dockerfile
+prod.txt
+src/
+config
